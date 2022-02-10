@@ -83,7 +83,7 @@ echo "
 
 git config --global url."git@github.com:".insteadOf "https://github.com/"
 
-git clone git@github.com:beepboopdefi/apebot.git
+git clone git@github.com:iballes/apebot.git
 
 cd apebot
 
